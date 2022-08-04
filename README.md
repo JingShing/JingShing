@@ -1,5 +1,6 @@
 # A Game maker from Taiwan
 Working on pygame and opengl.
+
 最近正在研究opengl和pygame。
 
 想多做一些遊戲，之後會陸續開源，最近發現遊戲開發工具比較有趣。
