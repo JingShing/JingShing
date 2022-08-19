@@ -1,5 +1,5 @@
 # A Game maker from Taiwan
-Working on pygame and opengl.
+Working on game making. With pygame, opengl and Lua.
 
 研究opengl和pygame。以及其他製作遊戲的工具和語言，如Love2D和Godot。
 
