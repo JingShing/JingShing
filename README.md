@@ -5,6 +5,8 @@ Working on game making. With pygame, opengl and Lua.
 
 you can also see my work on: https://jingshing.itch.io/
 
+![gif2 gif2](https://github.com/JingShing/Pixel-Art-transform-in-python/blob/main/sample/gif2.gif)
+
 ## Projects
 
 * [Pixel Art Filter](https://github.com/JingShing/Pixel-Art-transform-in-python)
