@@ -7,6 +7,7 @@
 
 你可以在itch上看到我打包好的作品：https://jingshing.itch.io/
 
+* ![gif2 gif2](https://github.com/JingShing/Pixel-Art-transform-in-python/blob/main/sample/gif2.gif)
 
 ## Projects專案
 
