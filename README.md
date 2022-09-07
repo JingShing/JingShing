@@ -3,9 +3,9 @@ English | [繁體中文](https://github.com/JingShing/JingShing/blob/main/README
 
 Working on game making. With pygame, opengl and Lua.
 
-You can see my vid on youtube : https://www.youtube.com/channel/UC2cU-8zZmT8uXfjdTQqD7QQ
+You can see my vid on youtube : [My channel](https://www.youtube.com/channel/UC2cU-8zZmT8uXfjdTQqD7QQ)
 
-You can also see my work on: https://jingshing.itch.io/
+You can also see my work on: [My itch.io page](https://jingshing.itch.io/)
 
 ![gif2 gif2](https://github.com/JingShing/Pixel-Art-transform-in-python/blob/main/sample/gif2.gif)
 
