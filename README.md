@@ -1,4 +1,5 @@
 # A Game maker from Taiwan
+English | [繁體中文](https://github.com/JingShing/JingShing/blob/main/README_TCH.md)
 Working on game making. With pygame, opengl and Lua.
 
 目前正在研究開發遊戲。使用opengl和pygame。以及其他製作遊戲的工具和語言，如Love2D和Godot。
