@@ -5,7 +5,9 @@ Working on game making. With pygame, opengl and Lua.
 
 You can see my vid on youtube : [My channel](https://www.youtube.com/channel/UC2cU-8zZmT8uXfjdTQqD7QQ)
 
-You can also see my work on : [My itch.io page](https://jingshing.itch.io/)
+You can see my work on : [My itch.io page](https://jingshing.itch.io/)
+
+You can see my artwork on : [My pixiv page](https://www.pixiv.net/users/17213989)
 
 ![gif2 gif2](https://github.com/JingShing/Pixel-Art-transform-in-python/blob/main/sample/gif2.gif)
 
