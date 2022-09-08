@@ -5,10 +5,13 @@
 
 想多做一些遊戲，之後會陸續開源，最近發現遊戲開發工具比較有趣。
 
-你可以在 youtube 看到我的影片 : [我的頻道](https://www.youtube.com/channel/UC2cU-8zZmT8uXfjdTQqD7QQ)
+## Social 社交平台
 
-你可以在 itch 上看到我打包好的作品 : [我的 itch.io 頁面](https://jingshing.itch.io/)
+* 你可以在 youtube 看到我的影片 : [我的頻道](https://www.youtube.com/channel/UC2cU-8zZmT8uXfjdTQqD7QQ)
 
+* 你可以在 itch 上看到我打包好的作品 : [我的 itch.io 頁面](https://jingshing.itch.io/)
+
+* 你可以在 pixiv 上看到我的藝術創作 : [我的 pixiv 頁面](https://www.pixiv.net/users/17213989)
 
 ![gif2 gif2](https://github.com/JingShing/Pixel-Art-transform-in-python/blob/main/sample/gif2.gif)
 
