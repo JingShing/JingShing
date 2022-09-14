@@ -26,4 +26,4 @@ Working on game making. With pygame, opengl and Lua.
 * [Visual Novel Maker](https://github.com/JingShing/Visual-Novel-Editor)
 
 ## Educational Projects
-* [College subject notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
+* [College Subject Notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
