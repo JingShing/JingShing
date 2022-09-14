@@ -26,3 +26,6 @@
 * [像素風格濾鏡Pixel Art Filter](https://jingshing.itch.io/pixel-art-filter)
 
 * [視覺小說製作Visual Novel Maker](https://github.com/JingShing/Visual-Novel-Editor)
+
+## Educational Projects教育專案
+* [大學科目筆記College subject notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
