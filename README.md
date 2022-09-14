@@ -24,3 +24,6 @@ Working on game making. With pygame, opengl and Lua.
 * [Pixel Art Filter](https://jingshing.itch.io/pixel-art-filter)
 
 * [Visual Novel Maker](https://github.com/JingShing/Visual-Novel-Editor)
+
+## Educational Projects
+* [College subject notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
