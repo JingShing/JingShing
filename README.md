@@ -12,6 +12,7 @@ Working on game making. With pygame, opengl and Lua.
 * You can see my artwork on : [My pixiv page](https://www.pixiv.net/users/17213989)
 
 ![gif2 gif2](https://github.com/JingShing/Pixel-Art-transform-in-python/blob/main/sample/gif2.gif)
+> gif I made with [Pixel Art Filter](https://jingshing.itch.io/pixel-art-filter)
 
 ## Projects
 
