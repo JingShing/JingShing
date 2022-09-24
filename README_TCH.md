@@ -1,4 +1,4 @@
-# 一個台灣遊戲開發者
+# 一個台灣的程序開發者
 [English](https://github.com/JingShing/JingShing/blob/main/README.md) | 繁體中文
 
 目前正在研究開發遊戲。使用opengl和pygame。以及其他製作遊戲的工具和語言，如Love2D和Godot。
