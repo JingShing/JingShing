@@ -1,4 +1,4 @@
-# A Game developer from Taiwan
+# A Programmer from Taiwan working on developing games
 English | [繁體中文](https://github.com/JingShing/JingShing/blob/main/README_TCH.md)
 
 Working on game making. With pygame, opengl and Lua.
