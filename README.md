@@ -1,7 +1,7 @@
 # A Programmer from Taiwan
 English | [繁體中文](https://github.com/JingShing/JingShing/blob/main/README_TCH.md)
 
-Working on developing games without game engines.
+Working on developing games with passion and love.
 
 ## Social website
 
