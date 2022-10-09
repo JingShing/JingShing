@@ -26,5 +26,8 @@ Working on developing games with passion and love. Tool I use: pygame, godot, op
 
 * [Visual Novel Maker](https://github.com/JingShing/Visual-Novel-Editor)
 
+## tutorial
+* [NovelAI installation tutorial](https://github.com/JingShing/NovelAI-installation-tutorial)
+
 ## Educational Projects
 * [College Subject Notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
