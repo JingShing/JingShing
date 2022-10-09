@@ -28,5 +28,8 @@
 
 * [視覺小說製作Visual Novel Maker](https://github.com/JingShing/Visual-Novel-Editor)
 
+## tutorial教學
+* [NovelAI 安裝教學](https://github.com/JingShing/NovelAI-installation-tutorial)
+
 ## Educational Projects教育專案
 * [大學科目筆記College Subject Notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
