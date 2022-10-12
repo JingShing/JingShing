@@ -30,6 +30,7 @@
 
 ## tutorial教學
 * [NovelAI 安裝教學](https://github.com/JingShing/NovelAI-installation-tutorial)
+* [NovelAI colab 版本](https://github.com/JingShing/novelai-colab-ver)
 
 ## Educational Projects教育專案
 * [大學科目筆記College Subject Notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
