@@ -28,6 +28,8 @@
 
 * [視覺小說製作Visual Novel Maker](https://github.com/JingShing/Visual-Novel-Editor)
 
+* [AI咒語生成器](https://github.com/JingShing/AI-Drawing-Spell-Generator)
+
 ## tutorial教學
 * [NovelAI 安裝教學](https://github.com/JingShing/NovelAI-installation-tutorial)
 * [NovelAI colab 版本](https://github.com/JingShing/novelai-colab-ver)
