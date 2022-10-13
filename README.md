@@ -26,6 +26,8 @@ Working on developing games with passion and love. Tool I use: pygame, godot, op
 
 * [Visual Novel Maker](https://github.com/JingShing/Visual-Novel-Editor)
 
+* [AI Spell Generatior](https://github.com/JingShing/AI-Drawing-Spell-Generator)
+
 ## tutorial
 * [NovelAI installation tutorial](https://github.com/JingShing/NovelAI-installation-tutorial)
 * [NovelAI colab version](https://github.com/JingShing/novelai-colab-ver)
