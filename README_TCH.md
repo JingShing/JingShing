@@ -36,3 +36,12 @@
 
 ## Educational Projects教育專案
 * [大學科目筆記College Subject Notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
+
+<div align='center'>
+    <p align='center'>
+        <img src='https://github-readme-stats.vercel.app/api?line_height=27&username=JingShing&show_icons=true&theme=dark'/>
+    </p>
+    <p align='center'>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingShing&layout=compact&theme=dark"/>
+    </p>
+</div>
