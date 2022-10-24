@@ -2,7 +2,6 @@
 English | [繁體中文](https://github.com/JingShing/JingShing/blob/main/README_TCH.md)
 
 Working on developing games with passion and love. Tool I use: pygame, godot, opengl, love2d, pytorch.
-
 ## Social website
 * [My own website](https://jingshing.com/)
 
@@ -43,4 +42,8 @@ Working on developing games with passion and love. Tool I use: pygame, godot, op
     <p align='center'>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingShing&layout=compact&theme=dark"/>
     </p>
+    <p align='center'>
+        <img src="https://github-profile-trophy.vercel.app/?username=JingShing&theme=onedark&no-bg=true"/>
+    </p>
 </div>
+<img src="https://komarev.com/ghpvc/?username=vinesmsuic&color=blueviolet">
