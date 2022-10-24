@@ -4,6 +4,7 @@ English | [繁體中文](https://github.com/JingShing/JingShing/blob/main/README
 Working on developing games with passion and love. Tool I use: pygame, godot, opengl, love2d, pytorch.
 
 ## Social website
+* [My own website](https://jingshing.com/)
 
 * You can see my vid on youtube : [My channel](https://www.youtube.com/channel/UC2cU-8zZmT8uXfjdTQqD7QQ)
 
