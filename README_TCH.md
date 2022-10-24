@@ -42,15 +42,37 @@
 * [大學科目筆記College Subject Notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
 
 
-<div align='center'>
-    <p align='center'>
-        <img src='https://github-readme-stats.vercel.app/api?line_height=27&username=JingShing&show_icons=true&theme=dark'/>
-    </p>
-    <p align='center'>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingShing&layout=compact&theme=dark"/>
-    </p>
-    <p align='center'>
-        <img src="https://github-profile-trophy.vercel.app/?username=JingShing&theme=onedark&no-bg=true"/>
-    </p>
-</div>
+<p align="center">
+  <a href="https://github.com/JingShing">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api?username=JingShing&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
+  </a>
+    
+  <a href="https://github.com/JingShing">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=JingShing&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+  </a>
+  <a href="https://github.com/JingShing">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=JingShing&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
+    />
+  </a>
+    <a href="https://github.com/JingShing">
+    <img align="center"
+         height="150em"
+         src="https://activity-graph.herokuapp.com/graph?username=JingShing&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JingShing">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=JingShing&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+  </a>
+</a>
+</p>
 <img src="https://komarev.com/ghpvc/?username=vinesmsuic&color=blueviolet">
