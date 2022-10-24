@@ -41,8 +41,7 @@
 ## Educational Projects教育專案
 * [大學科目筆記College Subject Notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
 
-<p align="center">Github Info</p>
-
+<h2 align="center">Github Info</h2>
 <p align="center">
   <a href="https://github.com/JingShing">
     <img align="center"
