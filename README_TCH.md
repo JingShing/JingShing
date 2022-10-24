@@ -6,6 +6,7 @@
 想多做一些遊戲，之後會陸續開源，最近發現遊戲開發工具比較有趣。AI也是。
 
 ## Social website社交平台
+* [我自己的網站](https://jingshing.com/)
 
 * 你可以在 youtube 看到我的影片 : [我的頻道](https://www.youtube.com/channel/UC2cU-8zZmT8uXfjdTQqD7QQ)
 
