@@ -37,7 +37,7 @@ Working on developing games with passion and love. Tool I use: pygame, godot, op
 
 ## Educational Projects
 * [College Subject Notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
-
+<p align="center">Github Info</p>
 <p align="center">
   <a href="https://github.com/JingShing">
     <img align="center"
