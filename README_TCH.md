@@ -25,6 +25,8 @@
 
 * [AI咒語生成器](https://github.com/JingShing/AI-Drawing-Spell-Generator)
 
+* [AI標籤提取器](https://github.com/JingShing/AI-image-tag-extractor)
+
 ## tutorial教學
 * [NovelAI 安裝教學](https://github.com/JingShing/NovelAI-installation-tutorial)
 
