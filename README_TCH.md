@@ -17,12 +17,6 @@
 ![gif2 gif2](https://github.com/JingShing/Pixel-Art-transform-in-python/blob/main/sample/gif2.gif)
 > 我用[Pixel Art Filter像素化濾鏡工具](https://jingshing.itch.io/pixel-art-filter)製作的gif
 
-## Projects專案
-
-* [像素風格濾鏡Pixel Art Filter](https://github.com/JingShing/Pixel-Art-transform-in-python)
-
-* [視覺小說製作Visual Novel Maker](https://github.com/JingShing/Visual-Novel-Editor)
-
 ## EXE
 
 * [像素風格濾鏡Pixel Art Filter](https://jingshing.itch.io/pixel-art-filter)
