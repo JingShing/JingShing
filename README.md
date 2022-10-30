@@ -14,12 +14,6 @@ Working on developing games with passion and love. Tool I use: pygame, godot, op
 ![gif2 gif2](https://github.com/JingShing/Pixel-Art-transform-in-python/blob/main/sample/gif2.gif)
 > gif I made with [Pixel Art Filter](https://jingshing.itch.io/pixel-art-filter)
 
-## Projects
-
-* [Pixel Art Filter](https://github.com/JingShing/Pixel-Art-transform-in-python)
-
-* [Visual Novel Maker](https://github.com/JingShing/Visual-Novel-Editor)
-
 ## EXE
 
 * [Pixel Art Filter](https://jingshing.itch.io/pixel-art-filter)
