@@ -22,6 +22,8 @@ Working on developing games with passion and love. Tool I use: pygame, godot, op
 
 * [AI Spell Generatior](https://github.com/JingShing/AI-Drawing-Spell-Generator)
 
+* [AI image tag extractor](https://github.com/JingShing/AI-image-tag-extractor)
+
 ## tutorial
 * [NovelAI installation tutorial](https://github.com/JingShing/NovelAI-installation-tutorial)
 
