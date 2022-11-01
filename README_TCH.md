@@ -32,7 +32,7 @@
 ## tutorial教學
 * [NovelAI 安裝教學](https://github.com/JingShing/NovelAI-installation-tutorial)
 
-* ~~[NovelAI colab 版本](https://github.com/JingShing/novelai-colab-ver)~~
+* ~~[NovelAI colab 版本](https://github.com/JingShing/novelai-colab-ver)~~(因為DMCA被下架)
 
 * [NovelAI Naifu 低顯存版本](https://github.com/JingShing/NovelAI-4chan-lowvram-ver)
 
