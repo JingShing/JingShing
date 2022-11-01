@@ -27,10 +27,12 @@
 
 * [AI標籤提取器](https://github.com/JingShing/AI-image-tag-extractor)
 
+* [加解密工具](https://github.com/JingShing/Encryptor-Decryptor)
+
 ## tutorial教學
 * [NovelAI 安裝教學](https://github.com/JingShing/NovelAI-installation-tutorial)
 
-* [NovelAI colab 版本](https://github.com/JingShing/novelai-colab-ver)
+* ~~[NovelAI colab 版本](https://github.com/JingShing/novelai-colab-ver)~~
 
 * [NovelAI Naifu 低顯存版本](https://github.com/JingShing/NovelAI-4chan-lowvram-ver)
 
