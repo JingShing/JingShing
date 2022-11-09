@@ -14,7 +14,10 @@
 
 * 你可以在 pixiv 上看到我的藝術創作 : [我的 pixiv 頁面](https://www.pixiv.net/users/17213989)
 
-![gif2 gif2](https://github.com/JingShing/Pixel-Art-transform-in-python/blob/main/sample/gif2.gif)
+<div style="width:960px; margin:0 auto;">
+<img align="center" height="300em" src="https://raw.githubusercontent.com/JingShing-Tools/Pixel-Art-transform-in-python/main/sample/gif2.gif">
+<img align="center" height="300em" src="https://raw.githubusercontent.com/JingShing-Tools/Pixel-Art-transform-in-python/main/sample/subarasi.gif">
+</div>
 > 我用[Pixel Art Filter像素化濾鏡工具](https://jingshing.itch.io/pixel-art-filter)製作的gif
 
 ## EXE
