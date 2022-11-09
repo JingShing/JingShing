@@ -25,11 +25,11 @@ Working on developing games with passion and love. Tool I use: pygame, godot, op
 * [AI image tag extractor](https://github.com/JingShing/AI-image-tag-extractor)
 
 ## tutorial
-* [NovelAI installation tutorial](https://github.com/JingShing/NovelAI-installation-tutorial)
+* ~~[NovelAI installation tutorial~~ImageAI installation tutorial](https://github.com/JingShing/NovelAI-installation-tutorial)
 
 * ~~[NovelAI colab version](https://github.com/JingShing/novelai-colab-ver)~~(Down for DCMA. Thanks to NovelAI)
 
-* [NovelAI Naifu low vram version](https://github.com/JingShing/NovelAI-4chan-lowvram-ver)
+~~* [NovelAI Naifu low vram version~~ImageAI Naifu low vram version](https://github.com/JingShing/NovelAI-4chan-lowvram-ver)
 
 ## Educational Projects
 * [College Subject Notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
