@@ -17,6 +17,11 @@ Working on developing games with passion and love. Tool I use: pygame, godot, op
 
 > gif I made with [Pixel Art Filter](https://jingshing.itch.io/pixel-art-filter)
 
+<div style="width:960px; margin:0 auto;">
+  <img align="center" height="300em" src="https://raw.githubusercontent.com/JingShing/QR-Code-Generator/main/sample/qrcode2.gif">
+</div>
+
+> An gif qrcode mixed with my [web site](jingshing.com) and gif I made with [Pixel Art Filter](https://jingshing.itch.io/pixel-art-filter).
 ## EXE
 
 * [Pixel Art Filter](https://jingshing.itch.io/pixel-art-filter)
