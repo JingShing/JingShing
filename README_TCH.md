@@ -25,7 +25,7 @@
   <img align="center" height="300em" src="https://raw.githubusercontent.com/JingShing/QR-Code-Generator/main/sample/qrcode2.gif">
 </div>
 
-> 一個 gif 的 qrcode 融合了 [我的網站](jingshing.com) 和使用了我的 [Pixel Art Filter像素化濾鏡工具](https://jingshing.itch.io/pixel-art-filter) 製作的 GIF
+> 一個 gif 的 qrcode 融合了 [我的網站](jingshing.com) 和使用了我的 [Pixel Art Filter像素化濾鏡工具](https://jingshing.itch.io/pixel-art-filter) 和 [QR code產生器](https://github.com/JingShing/QR-Code-Generator) 製作的 GIF
 ## EXE
 
 * [像素風格濾鏡Pixel Art Filter](https://jingshing.itch.io/pixel-art-filter)
