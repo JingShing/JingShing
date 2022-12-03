@@ -1,7 +1,22 @@
 # A Programmer from Taiwan
 English | [繁體中文](https://github.com/JingShing/JingShing/blob/main/README_TCH.md)
 
+<h3 align="center">
+    Welcome your arrive! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100000&color=F70000&width=435&lines=You+can+see+my+project++I+made+here!" alt="Typing SVG" /></a>
+</p>
+
 Working on developing games with passion and love. Tool I use: pygame, godot, opengl, love2d, pytorch.
+
+## As my asian parents told me
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=100000&color=F7F7F7&width=550&lines=Pursuing+your+dream+is+how+you+become+homeless." alt="Typing SVG" /></a>
+</p>
 
 ## My tool website
 * [Pixel Art Filter Web](https://pixel.jingshing.com/english)
