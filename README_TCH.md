@@ -1,9 +1,23 @@
 # 一個台灣的程序開發者
 [English](https://github.com/JingShing/JingShing/blob/main/README.md) | 繁體中文
+<h3 align="center">
+    歡迎你的到來！ 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100000&color=F70000&width=435&lines=你可以在這看到我做的專案" alt="Typing SVG" /></a>
+</p>
 
 目前正在研究開發遊戲。使用opengl和pygame。以及其他製作遊戲的工具和語言，如Love2D和Godot。
 
 想多做一些遊戲，之後會陸續開源，最近發現遊戲開發工具比較有趣。AI也是。
+
+## 如同父母常說的
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=100000&color=F7F7F7&width=550&lines=追求夢想，一無所有" alt="Typing SVG" /></a>
+</p>
 
 ## 我的工具網站
 * [線上像素風濾鏡](https://pixel.jingshing.com/traditional_chinese)
