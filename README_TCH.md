@@ -84,11 +84,11 @@
          src="https://github-readme-stats.vercel.app/api/top-langs?username=JingShing&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
     />
   </a>
-    <a href="https://github.com/JingShing">
+<!--     <a href="https://github.com/JingShing">
     <img align="center"
          height="150em"
          src="https://activity-graph.herokuapp.com/graph?username=JingShing&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
