@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100000&color=F70000&width=435&lines=你可以在這看到我做的專案" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100000&color=F70000&width=435&lines=你+可+以+在+這+看+到+我+做+的+專+案+！" alt="Typing SVG" /></a>
 </p>
 
 目前正在研究開發遊戲。使用opengl和pygame。以及其他製作遊戲的工具和語言，如Love2D和Godot。
@@ -16,7 +16,7 @@
 ## 如同父母常說的
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=100000&color=F7F7F7&width=550&lines=追求夢想，一無所有" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=100000&color=F7F7F7&width=550&lines=勇+敢+追+求+你+的+夢+想，你+將+變+得+一+無+所+有" alt="Typing SVG" /></a>
 </p>
 
 ## 我的工具網站
