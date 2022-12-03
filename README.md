@@ -1,7 +1,7 @@
 # A Programmer from Taiwan
 English | [繁體中文](https://github.com/JingShing/JingShing/blob/main/README_TCH.md)
 
-## Hello I am [JingShing](https://jingshing.com/).
+## Hello I am [JingShing](https://jingshing.com/)
 
 <h3 align="center">
     Welcome your arrive! 
