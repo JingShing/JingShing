@@ -59,11 +59,11 @@
 * [加解密工具](https://github.com/JingShing/Encryptor-Decryptor)
 
 ## tutorial教學
-* [~~NovelAI~~ ImageAI安裝教學](https://github.com/JingShing/NovelAI-installation-tutorial)
+* ~~[NovelAI ImageAI安裝教學](https://github.com/JingShing/NovelAI-installation-tutorial)~~
 
-* ~~[NovelAI colab 版本](https://github.com/JingShing/novelai-colab-ver)~~(因為DMCA被下架)
+* ~~[NovelAI colab 版本](https://github.com/JingShing/novelai-colab-ver)(因為DMCA被下架)~~
 
-* [~~NovelAI~~ ImageAI Naifu 低顯存版本](https://github.com/JingShing/NovelAI-4chan-lowvram-ver)
+* ~~[NovelAI ImageAI Naifu 低顯存版本](https://github.com/JingShing/NovelAI-4chan-lowvram-ver)~~
 
 ## Educational Projects教育專案
 * [大學科目筆記College Subject Notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
