@@ -56,9 +56,9 @@ Working on developing games with passion and love. Tool I use: pygame, godot, op
 ## tutorial
 * ~~[~~NovelAI~~  ImageAI installation tutorial](https://github.com/JingShing/NovelAI-installation-tutorial)~~
 
-* ~~[NovelAI colab version](https://github.com/JingShing/novelai-colab-ver)~~(Down for DCMA. Thanks for NovelAI)
+* ~~~~[NovelAI colab version](https://github.com/JingShing/novelai-colab-ver)~~(Down for DCMA. Thanks for NovelAI)~~
 
-* [~~NovelAI~~  ImageAI Naifu low vram version](https://github.com/JingShing/NovelAI-4chan-lowvram-ver)
+* ~~[~~NovelAI~~  ImageAI Naifu low vram version](https://github.com/JingShing/NovelAI-4chan-lowvram-ver)~~
 
 ## Educational Projects
 * [College Subject Notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
