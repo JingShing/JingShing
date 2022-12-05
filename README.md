@@ -54,7 +54,7 @@ Working on developing games with passion and love. Tool I use: pygame, godot, op
 * [AI image tag extractor](https://github.com/JingShing/AI-image-tag-extractor)
 
 ## tutorial
-* [~~NovelAI~~  ImageAI installation tutorial](https://github.com/JingShing/NovelAI-installation-tutorial)
+* ~~[~~NovelAI~~  ImageAI installation tutorial](https://github.com/JingShing/NovelAI-installation-tutorial)~~
 
 * ~~[NovelAI colab version](https://github.com/JingShing/novelai-colab-ver)~~(Down for DCMA. Thanks for NovelAI)
 
