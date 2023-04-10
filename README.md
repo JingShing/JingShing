@@ -60,6 +60,10 @@ Working on developing games with passion and love. Tool I use: pygame, godot, op
 
 * ~~[NovelAI  ImageAI Naifu low vram version](https://github.com/JingShing/NovelAI-4chan-lowvram-ver)~~
 
+* [Let's install Stable Diffusion Webui](https://github.com/JingShing/Lets-start-install-stable-diffusion)
+
+* [How to use Tesla p40](https://github.com/JingShing/How-to-use-tesla-p40)
+
 ## Educational Projects
 * [College Subject Notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
 <h2 align="center">Github Info</h2>
