@@ -14,7 +14,7 @@ English | [繁體中文](https://github.com/JingShing/JingShing/blob/main/README
 
 Working on developing games with passion and love. Tool I use: pygame, godot, opengl, love2d, pytorch.
 
-## As my asian parents told me
+## As my Asian parents told me
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=100000&color=F7F7F7&width=550&lines=Pursuing+your+dream+is+how+you+become+homeless." alt="Typing SVG" /></a>
