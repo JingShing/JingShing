@@ -65,6 +65,10 @@
 
 * ~~[NovelAI ImageAI Naifu 低顯存版本](https://github.com/JingShing/NovelAI-4chan-lowvram-ver)~~
 
+* [讓我們一起安裝 Stable Diffusion Webui](https://github.com/JingShing/Lets-start-install-stable-diffusion)
+
+* [如何使用 Tesla p40](https://github.com/JingShing/How-to-use-tesla-p40)
+
 ## Educational Projects教育專案
 * [大學科目筆記College Subject Notes](https://github.com/university-subject/.github/blob/main/profile/README.md)
 
