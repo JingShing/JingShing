@@ -12,7 +12,7 @@ English | [繁體中文](https://github.com/JingShing/JingShing/blob/main/README
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100000&color=F70000&width=435&lines=You+can+see+my+project++I+made+here!" alt="Typing SVG" /></a>
 </p>
 
-Working on developing games with passion and love. Tool I use: pygame, godot, opengl, love2d, pytorch.
+Working on developing program with passion and love. Language I use: Assmbly, C, C++, Java, Python, JavaScript, CSS, brainfuck...
 
 ## As my Asian parents told me
 
