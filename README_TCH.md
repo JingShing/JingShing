@@ -12,7 +12,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100000&color=F70000&width=435&lines=你+可+以+在+這+看+到+我+做+的+專+案+！" alt="Typing SVG" /></a>
 </p>
 
-目前正在研究開發遊戲。使用opengl和pygame。以及其他製作遊戲的工具和語言，如Love2D和Godot。
+目前正在研究開發軟體。我所使用的語言： Assmbly, C, C++, Java, Python, JavaScript, CSS, brainfuck...
 
 想多做一些遊戲，之後會陸續開源，最近發現遊戲開發工具比較有趣。AI也是。
 
