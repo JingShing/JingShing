@@ -91,7 +91,6 @@ Working on developing program with passion and love. Language I use: Assmbly, C,
          src="https://activity-graph.herokuapp.com/graph?username=JingShing&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
   </a> -->
 </p>
-
 <p align="center">
   <a href="https://github.com/JingShing">
     <img
@@ -100,3 +99,4 @@ Working on developing program with passion and love. Language I use: Assmbly, C,
   </a>
 </a>
 </p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/JingShing/JingShing/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/JingShing/JingShing/output/github-contribution-grid-snake.svg#gh-light-mode-only)
