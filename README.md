@@ -14,6 +14,23 @@ English | [繁體中文](https://github.com/JingShing/JingShing/blob/main/README
 
 Working on developing program with passion and love. Language I use: Assmbly, C, C++, Java, Python, JavaScript, CSS, brainfuck...
 
+# tools I use
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,azure,bash,bootstrap,cloudflare,cmake,discord,django,docker,dotnet,eclipse,flask,git,github,githubactions,gitlab,godot,idea,jquery,latex,linux,matlab,maven,mysql,nginx,powershell,pytorch,vim,vscode," />
+  </a>
+</p>
+
+# Language I use
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,lua,md,nodejs,php,py" />
+  </a>
+</p>
+
+
 ## As my Asian parents told me
 
 <p align="center">
