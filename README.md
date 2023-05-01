@@ -99,4 +99,4 @@ Working on developing program with passion and love. Language I use: Assmbly, C,
   </a>
 </a>
 </p>
-![github contribution grid snake animation](https://raw.githubusercontent.com/JingShing/JingShing/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/JingShing/JingShing/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
