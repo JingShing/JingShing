@@ -106,3 +106,6 @@
   </a>
 </a>
 </p>
+<p align="center">
+<img align="center" src="https://github.com/JingShing/JingShing/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
