@@ -16,6 +16,22 @@
 
 想多做一些遊戲，之後會陸續開源，最近發現遊戲開發工具比較有趣。AI也是。
 
+# 我所使用的工具
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,azure,bash,bootstrap,cloudflare,cmake,discord,django,docker,dotnet,eclipse,flask,git,github,githubactions,gitlab,godot,idea,jquery,latex,linux,matlab,maven,mysql,nginx,powershell,pytorch,vim,vscode," />
+  </a>
+</p>
+
+# 我所使用的語言
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,lua,md,nodejs,php,py" />
+  </a>
+</p>
+
 ## 如同父母常說的
 
 <p align="center">
