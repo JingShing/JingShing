@@ -1,6 +1,7 @@
 # 一個台灣的程序開發者
 [English](https://github.com/JingShing/JingShing/blob/main/README.md) | 繁體中文
-
+<!--我很抱歉這篇文件的語法很混亂，我混合使用了 md 和 html 的語法，因為 md 沒辦法展示出我想要的效果。-->
+<!--順帶一提，我也不太清楚這篇的一些配件的作用和原理。寫出這段代碼的時候的我和上帝很清楚這些代碼、配件和標籤的用法。但當你看到這行註解時，可能就只剩上帝知道這些配件和代碼的用法了。-->
 ## 哈囉，我是 [JingShing](https://jingshing.com/) ！
 
 <h3 align="center">
