@@ -1,6 +1,7 @@
 # A Programmer from Taiwan
 English | [繁體中文](https://github.com/JingShing/JingShing/blob/main/README_TCH.md)
-
+<!-- I am sorry this markdown repo is so complex. I want a better effect so I mix md and html syntax into one md file. And some widget is too cool to use. So I comment some code in this md repo.-->
+<!-- BTW. Even me can not tell which part work or not. There only god and the me from the past can tell which part functioned. And If you saw this line. Maybe there only god can know the method these codes function mechanics.-->
 ## Hello I am [JingShing](https://jingshing.com/)!
 
 <h3 align="center">
