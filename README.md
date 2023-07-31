@@ -5,7 +5,7 @@ English | [繁體中文](https://github.com/JingShing/JingShing/blob/main/README
 ## Hello I am [JingShing](https://jingshing.com/)!
 
 <h3 align="center">
-    Welcome your arrive! 
+    Welcome to your arrival! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
 
