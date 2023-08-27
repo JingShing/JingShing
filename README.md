@@ -15,6 +15,11 @@ English | [繁體中文](https://github.com/JingShing/JingShing/blob/main/README
 
 Working on developing program with passion and love. Language I use: Assmbly, C, C++, Java, Python, JavaScript, CSS, brainfuck...
 
+## I need some coffee or tea, maybe a rest
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F70000&width=435&lines=Why+sleep+for+a+long+time+in+life%2C;when+we+will+rest+forever+in+death." alt="Typing SVG" /></a>
+</p>
+
 # tools I use
 
 <p align="center">
