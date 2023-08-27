@@ -15,7 +15,10 @@
 
 目前正在研究開發軟體。我所使用的語言： Assmbly, C, C++, Java, Python, JavaScript, CSS, brainfuck...
 
-想多做一些遊戲，之後會陸續開源，最近發現遊戲開發工具比較有趣。AI也是。
+## 來些咖啡或茶，該休息會了
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100000&color=F70000&width=435&lines=生+前+何+必+久+睡+，+死+後+自+會+長+眠" alt="Typing SVG" /></a>
+</p>
 
 # 我所使用的工具
 
