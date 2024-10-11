@@ -37,6 +37,7 @@ Working on developing program with passion and love. Language I use: Assmbly, C,
 </p>
 
 
+
 ## As my Asian parents told me
 
 <p align="center">
@@ -125,3 +126,10 @@ Working on developing program with passion and love. Language I use: Assmbly, C,
 <p align="center">
 <img align="center" src="https://github.com/JingShing/JingShing/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+# Profile Views
+<img align="center" src="https://profile-counter.glitch.me/{JingShing}/count.svg"/></p>
+![](https://komarev.com/ghpvc/?username=JingShing&color=green)
+
+# Follow me
+[![badge-collection](https://img.shields.io/github/followers/JingShing?label=GitHub&style=social)](https://github.com/JingShing)
