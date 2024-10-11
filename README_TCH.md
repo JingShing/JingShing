@@ -129,3 +129,10 @@
 <p align="center">
 <img align="center" src="https://github.com/JingShing/JingShing/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+# 閱覽次數
+<img align="center" src="https://profile-counter.glitch.me/{JingShing}/count.svg"/></p>
+![](https://komarev.com/ghpvc/?username=JingShing&color=green)
+
+# 追隨(Follow)
+[![badge-collection](https://img.shields.io/github/followers/JingShing?label=GitHub&style=social)](https://github.com/JingShing)
