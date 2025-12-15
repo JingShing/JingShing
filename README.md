@@ -101,11 +101,6 @@ Working on developing program with passion and love. Language I use: Assmbly, C,
   <a href="https://github.com/JingShing">
     <img align="center"
          height="150em"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=JingShing&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
-  </a>
-  <a href="https://github.com/JingShing">
-    <img align="center"
-         height="150em"
          src="https://github-readme-stats.vercel.app/api/top-langs?username=JingShing&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
     />
 <!--   </a>
@@ -115,20 +110,12 @@ Working on developing program with passion and love. Language I use: Assmbly, C,
          src="https://activity-graph.herokuapp.com/graph?username=JingShing&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
   </a> -->
 </p>
-<p align="center">
-  <a href="https://github.com/JingShing">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=JingShing&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-  </a>
-</a>
-</p>
+
 <p align="center">
 <img align="center" src="https://github.com/JingShing/JingShing/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 # Profile Views
-<img align="center" src="https://profile-counter.glitch.me/{JingShing}/count.svg"/></p>
 ![](https://komarev.com/ghpvc/?username=JingShing&color=green)
 
 # Follow me
